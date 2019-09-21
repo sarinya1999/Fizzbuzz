@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Fizzbuzz praction #wu2019\r Author:Sarinya Kongseng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarinya1999/Fizzbuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarinya1999/Fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/sarinya1999/Fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
